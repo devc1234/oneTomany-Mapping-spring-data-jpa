@@ -1,0 +1,36 @@
+2024-07-12 16:36:25 | INFO  | com.example.demo.OneToManyMappingApplication | Starting OneToManyMappingApplication using Java 21.0.2 with PID 16484 (C:\Users\Rathod\Desktop\javaScript\OneToMany-Mapping\target\classes started by Rathod in C:\Users\Rathod\Desktop\javaScript\OneToMany-Mapping)
+2024-07-12 16:36:25 | INFO  | com.example.demo.OneToManyMappingApplication | No active profile set, falling back to 1 default profile: "default"
+2024-07-12 16:36:26 | INFO  | org.springframework.data.repository.config.RepositoryConfigurationDelegate | Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-07-12 16:36:26 | INFO  | org.springframework.data.repository.config.RepositoryConfigurationDelegate | Finished Spring Data repository scanning in 138 ms. Found 2 JPA repository interfaces.
+2024-07-12 16:36:27 | INFO  | org.hibernate.jpa.internal.util.LogHelper | HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-07-12 16:36:27 | INFO  | org.hibernate.Version | HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-07-12 16:36:27 | INFO  | org.hibernate.cache.internal.RegionFactoryInitiator | HHH000026: Second-level cache disabled
+2024-07-12 16:36:28 | INFO  | org.springframework.orm.jpa.persistenceunit.SpringPersistenceUnitInfo | No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-07-12 16:36:28 | INFO  | com.zaxxer.hikari.HikariDataSource | HikariPool-1 - Starting...
+2024-07-12 16:36:29 | INFO  | com.zaxxer.hikari.pool.HikariPool | HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@18d47df0
+2024-07-12 16:36:29 | INFO  | com.zaxxer.hikari.HikariDataSource | HikariPool-1 - Start completed.
+2024-07-12 16:36:29 | WARN  | org.hibernate.orm.deprecation | HHH90000025: MySQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-07-12 16:36:31 | INFO  | org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator | HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-07-12 16:36:36 | INFO  | org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean | Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-07-12 16:36:37 | INFO  | com.example.demo.OneToManyMappingApplication | Started OneToManyMappingApplication in 12.746 seconds (process running for 14.459)
+2024-07-12 16:36:38 | INFO  | org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean | Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-07-12 16:36:38 | INFO  | com.zaxxer.hikari.HikariDataSource | HikariPool-1 - Shutdown initiated...
+2024-07-12 16:36:38 | INFO  | com.zaxxer.hikari.HikariDataSource | HikariPool-1 - Shutdown completed.
+2024-07-12 16:40:37 | INFO  | com.example.demo.OneToManyMappingApplication | Starting OneToManyMappingApplication using Java 21.0.2 with PID 3036 (C:\Users\Rathod\Desktop\javaScript\OneToMany-Mapping\target\classes started by Rathod in C:\Users\Rathod\Desktop\javaScript\OneToMany-Mapping)
+2024-07-12 16:40:37 | INFO  | com.example.demo.OneToManyMappingApplication | No active profile set, falling back to 1 default profile: "default"
+2024-07-12 16:40:38 | INFO  | org.springframework.data.repository.config.RepositoryConfigurationDelegate | Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-07-12 16:40:38 | INFO  | org.springframework.data.repository.config.RepositoryConfigurationDelegate | Finished Spring Data repository scanning in 76 ms. Found 2 JPA repository interfaces.
+2024-07-12 16:40:38 | INFO  | org.hibernate.jpa.internal.util.LogHelper | HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-07-12 16:40:38 | INFO  | org.hibernate.Version | HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-07-12 16:40:38 | INFO  | org.hibernate.cache.internal.RegionFactoryInitiator | HHH000026: Second-level cache disabled
+2024-07-12 16:40:39 | INFO  | org.springframework.orm.jpa.persistenceunit.SpringPersistenceUnitInfo | No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-07-12 16:40:39 | INFO  | com.zaxxer.hikari.HikariDataSource | HikariPool-1 - Starting...
+2024-07-12 16:40:39 | INFO  | com.zaxxer.hikari.pool.HikariPool | HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@4776e209
+2024-07-12 16:40:39 | INFO  | com.zaxxer.hikari.HikariDataSource | HikariPool-1 - Start completed.
+2024-07-12 16:40:39 | WARN  | org.hibernate.orm.deprecation | HHH90000025: MySQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-07-12 16:40:40 | INFO  | org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator | HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-07-12 16:40:44 | INFO  | org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean | Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-07-12 16:40:44 | INFO  | com.example.demo.OneToManyMappingApplication | Started OneToManyMappingApplication in 8.023 seconds (process running for 8.884)
+2024-07-12 16:40:45 | INFO  | org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean | Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-07-12 16:40:45 | INFO  | com.zaxxer.hikari.HikariDataSource | HikariPool-1 - Shutdown initiated...
+2024-07-12 16:40:45 | INFO  | com.zaxxer.hikari.HikariDataSource | HikariPool-1 - Shutdown completed.
